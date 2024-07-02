@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing softwares that can help people to resolve their issues.
 - 🌱 I’m currently learning different programming languages and their respective frameworks.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: You can mail me on Telegram: @soGoated
+- 📫 How to reach me: You can text me on Telegram: @soGoated
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
