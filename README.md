@@ -17,6 +17,7 @@ I'm a passionate Full Stack Developer with expertise in the *MERN stack* (MongoD
 - Exploring deep learning and machine learning concepts.
 
 ### 📫 Let's Connect
+- *[Portfolio-Website](https://vastavikportfolio.vercel.app/)*
 - *[LinkedIn](https://www.linkedin.com/in/aditya-shukla-3134472b3/)*
 - *[Instagram](https://www.instagram.com/Vastavik.adi/)*
 
