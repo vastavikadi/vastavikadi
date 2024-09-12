@@ -1,7 +1,7 @@
 # Hi, I'm Aditya (Vastavikadi)
 
 ## Full Stack Developer | MERN Stack | AI Enthusiast
-<a href="https://github.com/vastavikadi/Images/blob/main/IMG_20240310_190523_386.jpg">ADITYA SHUKLA</a>
+<img alt="Aditya Shukla" src="https://github.com/vastavikadi/Images/blob/main/IMG_20240310_190523_386.jpg"></img>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="vastavikadi" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vastavikadi?trk=profile-badge">Aditya Shukla</a>
