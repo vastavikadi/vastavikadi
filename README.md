@@ -4,7 +4,7 @@
 <img alt="Aditya Shukla" src="https://github.com/vastavikadi/Images/blob/main/IMG_20240310_190523_386.jpg"></img>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="vastavikadi" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vastavikadi?trk=profile-badge">Aditya Shukla</a>
+  <img class="badge-base__link LI-simple-link" alt="LinkedIn_Profile" src="https://in.linkedin.com/in/vastavikadi?trk=profile-badge"></img>
 </div>
 
 
