@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-FF5A00?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="Hive Blockchain" />
+  <img src="https://img.shields.io/badge/Infura-E535AB?style=for-the-badge&logo=infura&logoColor=white" alt="Infura" />
+  <img src="https://img.shields.io/badge/Pinata-00C2FF?style=for-the-badge&logo=pinata&logoColor=white" alt="Pinata" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
 </p>
 
 ---
