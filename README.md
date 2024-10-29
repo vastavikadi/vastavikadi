@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Colorful Divider" width="80%" height="3px"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ### 🔧 Technologies & Tools
@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link2.png" alt="Wave Divider" width="80%" height="5px"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ### 🚀 What I'm Currently Working On
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link3.png" alt="Star Divider" width="80%" height="3px"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ### 📫 Let's Connect
