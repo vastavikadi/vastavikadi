@@ -26,3 +26,6 @@ Feel free to check out my repositories or reach out for collaboration opportunit
 ~ ~ ~
 
 “Discipline is the only key to success.”
+
+
+[![An image of @vastavikadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vastavikadi)](https://holopin.io/@vastavikadi)
