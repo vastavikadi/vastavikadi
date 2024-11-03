@@ -82,7 +82,7 @@
 
 ### 🧰 Repositories & Projects
 
-- [LifeVault](https://github.com/vastavikadi/lifevault) - Decentralized storage solution focusing on privacy.
+- [LifeVault](https://github.com/vastavikadi/LIFEvault---Decentralized-Storage/tree/main) - Decentralized storage solution focusing on privacy.
 - [HealthAssist](https://github.com/vastavikadi/HealthAssist) - A healthcare solution.
 - [FARM_FRIEND-AI](https://github.com/vastavikadi/FARM_FRIEND-AI) - A Web-App with AI tools for productivity enhancements in agriculture.
 - [Open Source Contributions](https://github.com/vastavikadi?tab=repositories&type=source)
