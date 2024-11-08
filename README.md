@@ -78,6 +78,9 @@
 
 [![Holopin Badges](https://holopin.me/vastavikadi)](https://holopin.io/@vastavikadi)
 
+### 🏆 Postman Achievements
+[![Badges](https://api.badgr.io/public/assertions/xOGHYTfLRJe0OcbYaiyoyg?identity__email=aditya82004shukla%40gmail.com)]
+
 ---
 
 ### 🧰 Repositories & Projects
