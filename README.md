@@ -78,6 +78,10 @@
 
 [![Holopin Badges](https://holopin.me/vastavikadi)](https://holopin.io/@vastavikadi)]
 
+### 🏆 Postman Achievements
+
+[![Badge: Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/xOGHYTfLRJe0OcbYaiyoyg/image)](https://api.badgr.io/public/assertions/xOGHYTfLRJe0OcbYaiyoyg)
+
 ---
 
 ### 🧰 Repositories & Projects
