@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Aditya (Vastavikadi) </h1>
-  <h2>Full Stack Developer | MERN Stack | AI Enthusiast</h2>
+  <h2>Full Stack Developer | WEB3 Dev | MERN Stack | AI Enthusiast</h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
 </div>
 
