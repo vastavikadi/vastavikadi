@@ -4,12 +4,6 @@
   <img src="./assets/hero-glass.png" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Aditya 👋</h1>
-
-<p align="center">
-Backend Engineer • Blockchain Developer • Product Builder
-</p>
-
 </div>
 
 <div align="center">
