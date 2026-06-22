@@ -213,19 +213,26 @@ const vastavikadi = {
 </td>
 <td width="50%" valign="top">
 
-### 🕸️ [Distributed Web Scraper](https://github.com/vastavikadi/Distributed-Web-Scraper)
+### 🕸️ [BeatBrawls](https://beatbrawls.com/)
 
-<p><em>A distributed web scraping system designed for scalability and resilience — coordinating multiple workers across a scraping cluster.</em></p>
+<p><em>A live blockchain trading card game serving 4,000+ players across 15+ countries with 200+ daily active users.</em></p>
 
 <p>
-<img src="https://img.shields.io/badge/Distributed-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Game-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scalable-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fault--Tolerant-FF6D00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Concurrent-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebRTC-121D33?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
 </p>
 
 <p>
-<code>🌐 Multi-Worker</code> · <code>⚡ High Performance</code> · <code>🔄 Auto-Retry</code> · <code>📊 Data Pipeline</code>
+<code>🎮 NFT Trading Cards</code> · <code>⛓️ Web3 Economy</code> · <code>⚡ Real-time Battles</code>
+</p>
+
+<p>
+<a href="https://beatbrawls.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-7C3AED?style=for-the-badge"/>
+</a>
 </p>
 
 </td>
@@ -281,7 +288,7 @@ const vastavikadi = {
   <img alt="contribution snake" src="https://raw.githubusercontent.com/vastavikadi/vastavikadi/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> 🔧 *Activate the snake: add `.github/workflows/snake.yml` (included in this repo package)*
+<!-- > 🔧 *Activate the snake: add `.github/workflows/snake.yml` (included in this repo package)* -->
 
 </div>
 
