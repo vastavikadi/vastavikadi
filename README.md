@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:7C3AED,70:A78BFA,100:0d1117&height=230&section=header&text=Aditya%20Shukla&fontSize=78&fontAlignY=38&fontColor=FFFFFF&desc=vastavikadi%20·%20just%20an%20explorer&descAlignY=58&descSize=20&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="./assets/hero-glass.png" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Aditya 👋</h1>
+
+<p align="center">
+Backend Engineer • Blockchain Developer • Product Builder
+</p>
 
 </div>
 
@@ -38,7 +46,7 @@ const vastavikadi = {
     "Distributed Systems",
   ],
 
-  currentlyBuilding : "GitPro — AI career roadmap SaaS powered by your GitHub",
+  currentlyBuilding : "OperaAI: An AI-First Linux Distribution — rethinking the operating system experience with artificial intelligence at its core.",
   hackathons        : "🏆 1st Place · IIT Delhi Tryst",
   openTo            : ["Internships", "Collabs", "Open-Source", "Late-night builds"],
 
@@ -51,12 +59,12 @@ const vastavikadi = {
 
 ### A bit more about me —
 
-- 🔭 Currently shipping **[GitPro](https://github.com/vastavikadi/GitPro)** — AI-powered GitHub career roadmaps
+- 🔭 Currently shipping **[OperaAI — AI-First Linux Distribution](https://github.com/vastavikadi/operaai)** — An AI-First Linux Distribution — rethinking the operating system experience with artificial intelligence at its core.
 - ⛓️ Deep into **Web3 protocols, IPFS, and decentralized apps**
 - 🤖 Obsessed with **AI Agents, RAG pipelines & LLM tooling**
 - 🏆 **1st Place** at IIT Delhi Tryst Hackathon
 - 🌐 Personal corner of the internet: **[vastavikadi.space](https://vastavikadi.space)**
-- 💬 Ask me about **TypeScript · Next.js · Go · Solidity · AI/ML**
+- 💬 Ask me about **TypeScript · Next.js · Go · Solidity · AI/ML · Linux · Web3**
 - 🌱 Always learning — currently: **distributed systems & zero-knowledge proofs**
 - ⚡ I ship, break, learn, repeat
 
@@ -72,10 +80,10 @@ const vastavikadi = {
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&perline=8&theme=dark)](https://skillicons.dev)
 
 ### Backend & APIs
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,go,python,django,graphql,haskell,elixir&perline=8&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,go,python,django,fastapi,graphql,haskell,elixir&perline=8&theme=dark)](https://skillicons.dev)
 
 ### Databases & Infrastructure
-[![Skills](https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,kubernetes,aws,linux,git&perline=8&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,cassandra,kubernetes,rabbitmq,aws,linux,git&perline=8&theme=dark)](https://skillicons.dev)
 
 ### ⛓️ Web3 & Blockchain Stack
 
@@ -249,7 +257,7 @@ const vastavikadi = {
 
 ---
 
-## 🏆 Trophy Cabinet
+<!-- ## 🏆 Trophy Cabinet
 
 <div align="center">
 
@@ -257,7 +265,7 @@ const vastavikadi = {
 
 </div>
 
----
+--- -->
 
 ## 📈 Contribution Pulse
 
