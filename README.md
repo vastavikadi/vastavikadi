@@ -70,11 +70,27 @@ const vastavikadi = {
 
 <div align="center">
 
+### AI & ML
+![HuggingFace](https://img.shields.io/badge/HuggingFace-121212?style=for-the-badge)
+[![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark&perline=8)](https://skillicons.dev)
+
+### AI & Agentic Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-121212?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
+![Mastra](https://img.shields.io/badge/Mastra-121212?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-121212?style=for-the-badge)
+![BeeAI](https://img.shields.io/badge/BeeAI-121212?style=for-the-badge)
+
+### Automation
+![Playwright](https://img.shields.io/badge/Playwright-121212?style=for-the-badge)
+
 ### Frontend & UI
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&perline=8&theme=dark)](https://skillicons.dev)
 
 ### Backend & APIs
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,go,python,django,fastapi,graphql,haskell,elixir&perline=8&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,go,python,django,fastapi,graphql&perline=8&theme=dark)](https://skillicons.dev)
 
 ### Databases & Infrastructure
 [![Skills](https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,cassandra,kubernetes,rabbitmq,aws,linux,git&perline=8&theme=dark)](https://skillicons.dev)
