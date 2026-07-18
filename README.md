@@ -330,7 +330,7 @@ const vastavikadi = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vastavikadi.space-7C3AED?style=for-the-badge)](https://vastavikadi.space)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vastavikadi)&nbsp;
-[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vastavikadi)&nbsp;
+[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elnorxfw)&nbsp;
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/vastavikadi)
 
 </div>
