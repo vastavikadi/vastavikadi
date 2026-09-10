@@ -70,6 +70,9 @@ const vastavikadi = {
 
 <div align="center">
 
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,java,c,cpp,cs" />
+
 ### AI & ML
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-121212?style=for-the-badge)
 [![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark&perline=8)](https://skillicons.dev)
